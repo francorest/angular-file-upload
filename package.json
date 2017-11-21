@@ -1,0 +1,37 @@
+{
+  "_from": "git+ssh://git@github.com/danialfarid/ng-file-upload.git#c3278b3",
+  "_id": "angular-file-upload@1.6.4",
+  "_inBundle": false,
+  "_integrity": "sha1-AaVeVVzyYDgjb0IfPBvMxihr/zo=",
+  "_location": "/angular-file-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "angular-file-upload@git+ssh://git@github.com/danialfarid/ng-file-upload.git#c3278b3",
+    "name": "angular-file-upload",
+    "escapedName": "angular-file-upload",
+    "rawSpec": "git+ssh://git@github.com/danialfarid/ng-file-upload.git#c3278b3",
+    "saveSpec": "git+ssh://git@github.com/danialfarid/ng-file-upload.git#c3278b3",
+    "fetchSpec": "ssh://git@github.com/danialfarid/ng-file-upload.git",
+    "gitCommittish": "c3278b3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/danialfarid/ng-file-upload.git#c3278b32465ea7930967c56752b8b8b3010bf2d3",
+  "_spec": "angular-file-upload@git+ssh://git@github.com/danialfarid/ng-file-upload.git#c3278b3",
+  "_where": "/Users/User/Documents/apps/marketgreen",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "angular-file-upload ===================",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-git": "~0.2.14",
+    "grunt-text-replace": "~0.3.12"
+  },
+  "name": "angular-file-upload",
+  "main": "./dist/angular-file-upload.js",
+  "version": "1.6.4"
+}
